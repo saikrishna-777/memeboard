@@ -2,34 +2,33 @@
 
 
 
-# [Project Name] 🎯
+# [meamboard] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [murukhan]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [saikrishna r] - [sngcet payyanur]
+- Member 2: [devadathan p] - [sngcet payyanur]
 
 ### Project Description
-[2-3 lines about what your project does]
+[normal typing is bit boaring so why not make it memeboard]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[no fun while typing]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[by adding meme to some keys]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html,javascript,css]
+  
+- [html5,css3,javascript,google fonts,html5 audio API,canvas API]
+- [visual studio code,antigravity,git,github,live server,google fonts,chrome/chromium]
 
 For Hardware:
 - [List main components]
